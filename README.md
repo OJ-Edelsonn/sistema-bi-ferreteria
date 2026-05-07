@@ -1,6 +1,6 @@
 # Sistema de Business Intelligence – Ferretería
 
-Proyecto de análisis para monitorear ventas, inventario y desempeño de productos de una ferretería usando dataset CSV/Excel, SQL y Power BI.
+Sistema de Business Intelligence para monitorear ventas, inventario y desempeño de productos de una ferretería mediante un dashboard funcional en Power BI, con datos trazables, KPIs claros e insights útiles para tomar decisiones de negocio.
 
 ## Estado del proyecto
 
