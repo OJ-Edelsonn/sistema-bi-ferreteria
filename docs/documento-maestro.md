@@ -270,9 +270,9 @@ Estas reglas se respetarán hasta la finalización del proyecto:
   - `bi: add power bi dashboard`
   - `docs: add screenshots and insights`
 
-## 13. Supuestos iniciales
+## 13. Supuestos iniciales confirmados
 
-- Si no se entrega data real, se construirá un dataset sintético pero coherente con una ferretería.
+- No se entregará data real porque aún no existe. Por lo tanto, se construirá un dataset sintético pero coherente con una ferretería.
 - El periodo recomendado del dataset será de 12 a 18 meses para permitir análisis temporal.
 - El dataset tendrá suficientes productos y ventas para que los rankings, márgenes y baja rotación sean significativos.
 - El dashboard será pensado para gerencia o administración de tienda, no para operación de caja.
@@ -298,9 +298,10 @@ Decisiones cerradas:
 3. Usuario GitHub: `OJ-Edelsonn`.
 4. Repositorio GitHub: `sistema-bi-ferreteria`.
 5. Visibilidad del repositorio: público.
+6. Dataset del proyecto: sintético, verosímil y coherente con una ferretería.
+7. Periodo analítico del dataset: 12 a 18 meses.
+8. Audiencia del dashboard: gerencia o administración de tienda.
 
 Decisiones pendientes:
 
-1. Confirmar si usaremos dataset sintético o si se proporcionará data real.
-2. Confirmar si el archivo `.pbix` se subirá directamente o se usará Git LFS si el tamaño crece demasiado.
-
+1. Confirmar si el archivo `.pbix` se subirá directamente o se usará Git LFS si el tamaño crece demasiado.
