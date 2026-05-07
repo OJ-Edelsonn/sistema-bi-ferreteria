@@ -1,0 +1,24 @@
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Temporales de Office / Power BI
+~$*.xlsx
+~$*.xls
+*.tmp
+*.bak
+*.log
+
+# Artefactos regenerables
+*.db
+*.sqlite
+*.sqlite3
+*.db-journal
+*.sqlite-journal
+
+# Python auxiliar, si se usa para generar o validar datos
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
