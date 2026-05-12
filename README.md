@@ -4,7 +4,7 @@ Sistema de Business Intelligence para monitorear ventas, inventario y desempeño
 
 ## Estado del proyecto
 
-Fase actual: Fase 2 completada con scripts SQL de schema, validaciones y KPIs.
+Fase actual: Fase 3 completada con modelo Power BI, relaciones, tabla calendario y medidas DAX validadas.
 
 ## Documento principal
 
@@ -36,6 +36,23 @@ Si no tienes `sqlite3` instalado, puedes validar los scripts con:
 ```bash
 python scripts/validar_sql.py
 ```
+
+## Modelo Power BI
+
+La Fase 3 incluye el archivo base del modelo Power BI:
+
+- Dashboard/modelo: `powerbi/ferreteria_bi.pbix`
+- Documentación del modelo: `docs/modelo-powerbi.md`
+- Medidas DAX: `docs/medidas-dax.md`
+
+KPIs validados contra SQL:
+
+- Ventas totales: `S/ 128,182.96`
+- Unidades vendidas: `8,056`
+- Transacciones: `1,800`
+- Margen estimado: `S/ 35,775.12`
+- Margen estimado %: `27.91%`
+- Productos de baja rotación: `8`
 
 ## Entregables previstos
 
