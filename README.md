@@ -4,7 +4,7 @@ Sistema de Business Intelligence para monitorear ventas, inventario y desempeño
 
 ## Estado del proyecto
 
-Fase actual: Fase 4 completada con dashboard funcional en Power BI.
+Fase actual: Fase 5 completada con insights, QA y screenshots finales.
 
 ## Documento principal
 
@@ -65,6 +65,19 @@ La Fase 4 incluye las vistas funcionales del dashboard:
 - `Inventario`
 
 Documentación de la fase: `docs/dashboard-powerbi.md`.
+
+## Insights y QA
+
+La Fase 5 incluye validación final, hallazgos de negocio y evidencia visual:
+
+- Insights: `docs/insights.md`
+- Checklist QA: `docs/qa-checklist.md`
+- Screenshots:
+  - `screenshots/01_validacion_kpis.png`
+  - `screenshots/02_vista_general.png`
+  - `screenshots/03_ventas.png`
+  - `screenshots/04_productos.png`
+  - `screenshots/05_inventario.png`
 
 ## Entregables previstos
 
