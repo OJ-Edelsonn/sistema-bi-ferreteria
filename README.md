@@ -4,7 +4,7 @@ Sistema de Business Intelligence para monitorear ventas, inventario y desempeño
 
 ## Estado del proyecto
 
-Fase actual: Fase 3 completada con modelo Power BI, relaciones, tabla calendario y medidas DAX validadas.
+Fase actual: Fase 4 completada con dashboard funcional en Power BI.
 
 ## Documento principal
 
@@ -53,6 +53,18 @@ KPIs validados contra SQL:
 - Margen estimado: `S/ 35,775.12`
 - Margen estimado %: `27.91%`
 - Productos de baja rotación: `8`
+
+## Dashboard Power BI
+
+La Fase 4 incluye las vistas funcionales del dashboard:
+
+- `Validación KPIs`
+- `Vista General`
+- `Ventas`
+- `Productos`
+- `Inventario`
+
+Documentación de la fase: `docs/dashboard-powerbi.md`.
 
 ## Entregables previstos
 
